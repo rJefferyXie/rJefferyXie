@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**rJefferyXie/rJefferyXie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me 
+🎓 I am Jeffery Xie, a Full-Stack Web Developer with a Computer Science degree from the University of Saskatchewan.
+<br />
 
-Here are some ideas to get you started:
+🖥 I enjoy learning new things and challenging myself everyday, especially when it comes to front-end web development. Outside of University, I learned how to use technologies such as Next.JS (React.JS), Google Firebase, Redux, TypeScript, and Cypress by myself. 
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏸 Outside of coding, my current favourite hobbies include going to the gym, watching professional wrestling (AEW, WWE), and playing sports like badminton and basketball. 
+
+# My Favourite Project
+[![Pokemon Clicker Game](https://user-images.githubusercontent.com/73203729/181860151-81201c7b-9a80-4371-93f4-9b3d49b24737.png)](https://heropokemon.web.app)
