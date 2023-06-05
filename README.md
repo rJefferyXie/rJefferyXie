@@ -7,7 +7,7 @@
 🖥 I enjoy learning new things and challenging myself everyday, especially things related to front-end web development. Outside of University, I learned how to use technologies such as **Next.JS (React.JS), Google Firebase, Redux, TypeScript**, and **Cypress**.
 <br />
 
-🏸 Outside of coding, my current favourite hobbies include **going to the gym, watching professional wrestling (AEW, WWE)**, and playing sports like **badminton and basketball**. 
+🏸 Outside of coding, my current favourite hobbies include **bouldering, going to the gym, watching professional wrestling**, and playing sports like **badminton and basketball**. 
 
 💠 Check out my online portfolio [here](https://jefferyxie.netlify.app/) to learn more!
 <br />
