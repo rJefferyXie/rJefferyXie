@@ -1,10 +1,10 @@
 # Hi there! 👋
 
 # About Me 
-🎓 I am **Jeffery Xie**, a **Full-Stack Web Developer** with a **Computer Science** degree from the **University of Saskatchewan**.
+🎓 I am **Jeffery Xie**, a **Software Developer** with a **Computer Science** degree from the **University of Saskatchewan**.
 <br />
 
-🖥 I enjoy learning new things and challenging myself everyday, especially things related to front-end web development. Outside of University, I learned how to use technologies such as **Next.JS (React.JS), Google Firebase, Redux, TypeScript**, and **Cypress**.
+🖥 I enjoy learning new things and challenging myself every day, especially things related to front-end web development. Outside of University, I learned how to use technologies such as **Next.JS (React.JS), Google Firebase, Redux, TypeScript**, and **Cypress**.
 <br />
 
 🏸 Outside of coding, my current favourite hobbies include **bouldering, going to the gym, watching professional wrestling**, and playing sports like **badminton and basketball**. 
